@@ -1,0 +1,21 @@
+.feature-card{
+    width: 290px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 4px black;
+    border: 2px solid black;
+    
+}
+.feature-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 15px;
+}
+.feature-title{
+    font-size: 18px;
+}
